@@ -3,7 +3,6 @@
 import numpy as np
 import matplotlib.pylab as plt
 import scipy.io as sio
-import math
 
 # ----------------------------part1.加载数据以及可视化---------------------------
 
